@@ -1,0 +1,39 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Camisa",
+        "price": 59.9
+      },
+      {
+        "id": 2,
+        "name": "Calça vermelha",
+        "price": 90
+      },
+      {
+        "id": 3,
+        "name": "Boné aba reta",
+        "price": 29.98
+      },
+      {
+        "id": 4,
+        "name": "Burmuda Florida",
+        "price": 55.99
+      },
+      {
+        "id": 5,
+        "name": "Camisa regata camuflada",
+        "price": 32.5
+      },
+      {
+        "id": 6,
+        "name": "Bota de trilha",
+        "price": 352.99
+      },
+      {
+        "id": 7,
+        "name": "Sapato social",
+        "price": 150.99
+      }
+    ]
+  }
